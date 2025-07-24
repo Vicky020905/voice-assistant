@@ -1,4 +1,4 @@
-# Voice Assistant Project
+#Entry level Voice Assistant Project
 
 A voice-controlled AI assistant built with Python that uses natural language processing and text-to-speech capabilities.
 
